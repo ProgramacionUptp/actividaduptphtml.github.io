@@ -1,0 +1,56 @@
+body{
+    background: rgb(54,129,171);
+background: linear-gradient(90deg, rgba(54,129,171,1) 0%, rgba(174,215,237,1) 35%, rgba(152,155,190,1) 100%);
+}
+
+table{
+    background-color: #e8dcf4;
+    table-layout: fixed;
+    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+    
+}
+
+#tabla-principal{
+    width: 800px;
+    height: 600px;
+    border-collapse: collapse;
+    border: solid 1px;
+    text-align:center;
+    margin: auto;
+    
+}
+
+#tabla-img{
+    display: block;
+    width: 789px;
+    height: 400px;
+    width:"70%";
+    padding-top: 50px;
+}
+
+#izq {
+    text-align: left;
+    width: 297px;
+}
+#cent {
+    text-align: center;
+}
+#der {
+    text-align: right;
+}
+
+#img-tabla-princ td{
+    border: solid 1px;
+}
+#tabla-nav td {
+    border: solid 1px
+}
+
+#td-img {
+    border: solid;
+}
+
+#autores td{
+    border-collapse: collapse;
+    border: solid 1px;
+}
